@@ -1,4 +1,4 @@
-# Programa WEB Calculadora usando Java Servlet.
+# Programa Calculadora usando Java Servlet.
 
 - Programa WEB usando Java Servlet para uma calculadora.
 - Utiliza Java Servlet declarado e mapeado no WEB.XML.
